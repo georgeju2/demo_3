@@ -44,5 +44,12 @@
 				<include>*</include>
 			</includes>
 		</fileSet>
+		<fileSet>
+			<directory>data</directory>
+			<outputDirectory>data</outputDirectory>
+			<includes>
+				<include>*.csv</include>
+			</includes>
+		</fileSet>
 	</fileSets>
 </assembly>
